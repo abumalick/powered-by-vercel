@@ -2,7 +2,7 @@
 
 Add Powered By Vercel SVG to your React app
 
-[![Alt text](https://raw.github.com/abumalick/powered-by-vercel/powered-by-vercel.svg 'Powered by Vercel')](https://vercel.com?utm_source=powered-by-vercel)
+[![Powered by Vercel](https://raw.githubusercontent.com/abumalick/powered-by-vercel/master/powered-by-vercel.svg)](https://vercel.com?utm_source=powered-by-vercel)
 
 ## Installation
 
@@ -42,5 +42,5 @@ export default function MyApp() {
 If you need to add the logo to your `README.md`. You can use the following (and change the utm_source accordingly)
 
 ```md
-[![Alt text](https://raw.github.com/abumalick/powered-by-vercel/powered-by-vercel.svg 'Powered by Vercel')](https://vercel.com?utm_source=powered-by-vercel)
+[![Powered by Vercel](https://raw.githubusercontent.com/abumalick/powered-by-vercel/master/powered-by-vercel.svg)](https://vercel.com?utm_source=powered-by-vercel)
 ```
