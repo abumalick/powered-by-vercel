@@ -44,3 +44,14 @@ If you need to add the logo to your `README.md`. You can use the following (and 
 ```md
 [![Powered by Vercel](https://raw.githubusercontent.com/abumalick/powered-by-vercel/master/powered-by-vercel.svg)](https://vercel.com?utm_source=powered-by-vercel)
 ```
+
+If you want to import the svg file only with your own svg loader you can do it like the following
+
+```
+import poweredByVercel from 'powered-by-vercel/powered-by-vercel.svg'
+
+...
+<img src={poweredByVercel} />
+...
+
+```
