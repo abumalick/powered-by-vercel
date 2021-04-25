@@ -28,7 +28,7 @@ export default function MyApp() {
       <br />
       <PoweredByVercel
         utmSource="my-source"
-        target="blank"
+        target="_blank"
         rel="noopener noreferrer"
         svgProps={{
           width: 150,
